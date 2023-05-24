@@ -1,0 +1,49 @@
+.navbar .logo img{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.navbar button{
+    margin-right: 50px;
+    width: 250px;
+    height: 50px;
+    background-color: #8f7745;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+
+.navbar button:hover{
+    color: #8f7745;
+    background-color: #fff;
+}
+
+.videoTag{
+    width: 100%;
+}
+.DropList
+{
+    color: rgb(141, 139, 139);
+}
+#BtnNav
+{
+    background-color: Transparent;
+    list-style: none;
+    color: rgb(141, 139, 139);
+    transition: 0.1s ease-in-out;
+}
+#BtnNav:hover
+{
+    color: rgb(115, 108, 108);
+}
+
+.DropMenu
+{
+    position: absolute;
+    z-index: 1;
+    background: rgba(33, 34, 33, 0.563);
+    list-style: none;
+    width: 250px;
+    text-align: center;
+}
