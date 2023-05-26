@@ -53,12 +53,12 @@ const Header = () => {
                 <ul className="DropMenu">
                   <li className="DropList">QUNU</li>
                   <li className="DropList">BRUNCH</li>
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
+                  <li className="DropList">MORNING AND</li>
+                  <li className="DropList">AFTERNOON TEA</li>
+                  <li className="DropList">THE TERRACE</li>
+                  <li className="DropList">OLIVE BAR</li>
+                  <li className="DropList">WINE CELLARS</li>
+                  
                 </ul>
               )}
 
