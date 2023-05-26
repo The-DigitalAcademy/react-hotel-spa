@@ -51,8 +51,8 @@ const Header = () => {
               <button id="BtnNav" onMouseOver={() => setToggle2(!toggle2)}>RESTAURANTS</button>
               {toggle2 && (
                 <ul className="DropMenu">
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
+                  <li className="DropList">QUNU</li>
+                  <li className="DropList">BRUNCH</li>
                   <li className="DropList">Show me</li>
                   <li className="DropList">Only when</li>
                   <li className="DropList">Show me</li>
