@@ -35,14 +35,14 @@ const Header = () => {
               <button id="BtnNav" onMouseOver={() => setToggle(!toggle)}>ACCOMMODATION</button>
               {toggle && (
                 <ul className="DropMenu">
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
-                  <li className="DropList">Show me</li>
-                  <li className="DropList">Only when</li>
+                  <li className="DropList">LUXURY SUITES</li>
+                  <li className="DropList">VILLA LUXURY SUITE</li>
+                  <li className="DropList">PRESIDENTIAL SUITE</li>
+                  <li className="DropList">VILLA PRESIDENTIAL SUITE</li>
+                  <li className="DropList">NELSON MANDELA</li>
+                  <li className="DropList">NELSON MANDELA</li>
+                  <li className="DropList">PLATINUM SUITE</li>
+                  <li className="DropList">SAXON LUXURY VILLAS</li>
                 </ul>
               )}
             </li>
