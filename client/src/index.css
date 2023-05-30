@@ -24,18 +24,18 @@
 }
 .DropList
 {
-    color: rgb(141, 139, 139);
+    color: rgb(241, 249, 255);
 }
 #BtnNav
 {
     background-color: Transparent;
     list-style: none;
-    color: rgb(141, 139, 139);
+    color: rgb(255, 247, 247);
     transition: 0.1s ease-in-out;
 }
 #BtnNav:hover
 {
-    color: rgb(115, 108, 108);
+    color: rgb(253, 249, 249);
 }
 
 .DropMenu
