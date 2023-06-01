@@ -19,9 +19,7 @@
     background-color: #fff;
 }
 
-.videoTag{
-    width: 100%;
-}
+
 .DropList
 {
     color: rgb(241, 249, 255);
@@ -46,4 +44,34 @@
     list-style: none;
     width: 250px;
     text-align: center;
+}
+.videoTitle
+{
+
+    width: 500px;
+    color: white;
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    z-index: 1;
+    font-size: 40px;
+    text-align: center;
+}
+.videoTitle2
+{
+
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    z-index: 1;
+    text-align: center;
+}
+.videoTag{
+    width: 100%;
+}
+.containerVideo .videoTag
+{
+    position:relative;
+    z-index:0;
 }
